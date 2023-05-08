@@ -29,6 +29,11 @@ The owner of the E-Commerce Store wants us to create an interactive dashboard to
 
 3. Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
 
+## **DASHBOARD**
+
+<img width="670" alt="Ecommerce Store " src="https://user-images.githubusercontent.com/132562651/236192105-cc9e3ce0-e9b5-4729-a82f-4a47bf9dfcf7.png">
+
+
 ### **Project Insight**
 1. Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), Electronics (21%) and furniture (17%) (Printers, Bookcases, Saree, etc).
 2. The store generates the maximum profits from the months January to April and December.
@@ -37,9 +42,3 @@ The owner of the E-Commerce Store wants us to create an interactive dashboard to
 
 ### **Final Conclusion**
 The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase the most of the products such as Clothing, Electronics and Furnitures. To improve sales of the E-Commerce Store, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
-
-## **DASHBOARD**
-
-<img width="670" alt="Ecommerce Store " src="https://user-images.githubusercontent.com/132562651/236192105-cc9e3ce0-e9b5-4729-a82f-4a47bf9dfcf7.png">
-
-
